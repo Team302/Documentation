@@ -8,14 +8,19 @@ The folders now include:
 Contains information about setting up our development environment.  For example, there is a file that lists the tools we use and where you can get them.  Here are the topics:
 
 ### [Tools](https://github.com/Team302/Documentation/blob/main/Environment/Tools.md)
+List of tools and where to get them.
 ### [VSCode Intellisense](https://github.com/Team302/Documentation/blob/main/Environment/VSCodeIntellisense.md)
+How to fix VSCode Intellisense issues.
+
 
 ## [Resources](https://github.com/Team302/Documentation/tree/main/Resources)
 Contains information about various things we use.  There are sub-folders for each category.   These folders will contain links to training material as well as links to sites that has useful information if exploring the given topic.  Here are the topics:
 
 
 ### [C#](https://github.com/Team302/Documentation/blob/main/Resources/C%23/cSharp.md)
+We use C# on our demonstration robots that have hero boards.  
 ### [C++](https://github.com/Team302/Documentation/blob/main/Resources/C%2B%2B/cPlusPlus.md)
+Main language we use on our competition robot.
 
 ### [Closed Loop Control](https://github.com/Team302/Documentation/blob/main/Resources/ClosedLoopControl/ClosedLoop.md)
 

@@ -6,11 +6,11 @@
 | Chris C | Personal |
 | Andrew H | |
 | Aryan B |  |
-| Hong Bing T | Team Laptop # |
+| Hong Bing T | Team Laptop 3 |
 | Stephanie K | |
 | Javar J | | 
 | Alyssa K | | 
-| Hong Xiang T | Team Laptop # | 
+| Hong Xiang T | Team Laptop 7 | 
 | Nick F | Personal |
 | Nathan K |  |
 | Mr. Witcpalek | Personal |
