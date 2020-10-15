@@ -1,7 +1,7 @@
 # Tools
 ---
 
-To set up the environment, first follow the instructions from [here.](https://docs.wpilib.org/en/stable/docs/getting-started/getting-started-frc-control-system/wpilib-setup.html>)  This will get many of the tools installed.   Then look through the following list to add missing tools.
+To set up the environment, first follow the instructions from [here.](https://docs.wpilib.org/en/stable/docs/getting-started/getting-started-frc-control-system/wpilib-setup.html)  This will get many of the tools installed.   Then look through the following list to add missing tools.
 
 
 ## Build / Edit Tools
