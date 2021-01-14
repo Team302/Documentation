@@ -3,11 +3,11 @@
 | Laptop | Status | Person | 
 |---|---|---|
 | Team Laptop 1 and charger without sleeve  | checked out | Aryan B | 
-| Team Laptop 2 and charger with sleev | assigned | Sarah S | 
+| Team Laptop 2 and charger with sleev | assigned | Javar J | 
 | Team Laptop 3 and charger without sleeve | checked out | Hong Bing T |
-| Team Laptop 4 and charger with sleev | assigned  | Nathan K | 
+| Team Laptop 4 and charger with sleev | checked out  | Nathan K | 
 | Team Laptop 5 with sleeve no charger? |   |  | 
-| Team Laptop 6 and charger with sleev |  assigned | Javar J | 
+| Team Laptop 6 and charger with sleev |  chjecked out | Sarah S | 
 | Team Laptop 7 and charger without sleeve |  checked out | Hong Xiang T | 
 | Team Laptop 8 and charger without sleeve | checked out | Stephanie K | 
 | Team Laptop 9 and charger with sleeve | assigned | Alyssa K | 
