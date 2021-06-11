@@ -10,7 +10,7 @@
 | Team Laptop 6 and charger | No known issues               | Sleeve    | checked out | Sarah S         | 
 | Team Laptop 7 and charger | No known issues               | No*       | checked out | Hong Xiang T    | 
 | Team Laptop 8 and charger | No known issues               | Sleeve    | Open        |                 | 
-| Team Laptop 9 and charger | No known issues               | Sleeve    | reserved    | Alyssa K        | 
+| Team Laptop 9 and charger | No known issues               | Sleeve    | checked out | Alyssa K        | 
 | Team Laptop 10 and charger| w10Pro64, 8gb ram, i5-6440HQ  | Sleeve    | checked out | Nathan K        | 
 | Team Laptop 11 and charger| Good - Old Driver's Station   | Bag       | checked out | AJ G            | 
 | Team Laptop 12 and charger| Good - Old Driver's Station   | Sleeve    | Open        |                 | 
