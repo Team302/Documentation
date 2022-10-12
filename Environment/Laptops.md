@@ -25,4 +25,4 @@
 | Dell Precision 7710 |  windows 10 pro I7-6820HQ |     | Open        |        needs environmennt         |
 | Dell Precision 7720 |  windows 10 pro I7-7820HQ |     | Open        |        needs environmennt - touch pad issues        |
 | Dell Precision 5520 |  windows 10 home xeon |     | Open        |        needs environmennt - undersized charger        |
-| Dell Precision 5530 |  windows 10 home xeon |     | Open        |        doesn't want to come up        |
+| Dell Precision 5530 |  windows 10 home xeon |     | Open        |        doesn't want to come up - shares charger with previous       |
