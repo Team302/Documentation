@@ -7,16 +7,16 @@
 | Team Laptop 3 and charger | No known issues               | Sleeve    | Open        |                 |
 | Team Laptop 4 and charger | Bad Windows & Locks Up        | Sleeve    | Open        |                 | 
 | Team Laptop 5 no charger? | Charger missing               | Sleeve    | Open        |                 |
-| Team Laptop 6 and charger | No known issues               | Sleeve    | returned    | Lucas           | 
+| Team Laptop 6 and charger | No known issues               | Sleeve    | returned    |                 | 
 | Team Laptop 7 and charger | No known issues               | Sleeve    | checked out | Sierra          | 
 | Team Laptop 8 and charger | No known issues               | Sleeve    | Open        |                 | 
-| Team Laptop 9 and charger | No known issues               | Sleeve    | Open        | Javar           | 
+| Team Laptop 9 and charger | No known issues               | Sleeve    | Open        |                 | 
 | Team Laptop 10 and charger| w10Pro64, 8gb ram, i5-6440HQ  | Sleeve    | checked out | Nathan K        | 
-| Team Laptop 11 and charger| Good - Old Driver's Station   | Bag       | checked out | Grey G          | 
+| Team Laptop 11 and charger| Good - Old Driver's Station   | Bag       | checked out |                 | 
 | Team Laptop 12 and charger| Good - Old Driver's Station   | Sleeve    | checked out | Aden            | 
 | Team laptop 13 and charger| Networks was giving problems  | Sleeve    | Open        |                 | 
-| Driver's Station 1        | Good                          | Sleeve    |             | Bruce           |
-| Driver's Station 2        | Good                          | Sleeve + bag |          | Bruce           |
+| Driver's Station 1        | Good                          | Sleeve    |             |                 |
+| Driver's Station 2        | Good                          | Sleeve + bag |          |                 |
 | Personal | N/A | Nick F |
 | Personal | N/A | Mr. Witcpalek |
 | Personal | N/A | Mr. Hoover | 
