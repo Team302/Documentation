@@ -4,10 +4,10 @@
 |---|---|---|---|---|
 | Team Laptop 1 and charger | No known issues                               | Sleeve          | Open              |                 | 
 | Team Laptop 2 and charger | No known issues                               | Sleeve          | Year 1            |                 | 
-| Team Laptop 3 and charger | No known issues                               | Sleeve          | Open              |                 |
+| Team Laptop 3 and charger | No known issues                               | Sleeve          | Unified           | Bonnie          |
 | Team Laptop 4 and charger | Bad Windows & Locks Up                        | Sleeve          | Open              |                 | 
 | Team Laptop 5 no charger? | Charger missing                               | Sleeve          | Open              |                 |
-| Team Laptop 6 and charger | No known issues                               | Sleeve          | Open              |                 | 
+| Team Laptop 6 and charger | No known issues                               | Sleeve          | Unified           | Bonnie          | 
 | Team Laptop 7 and charger | No known issues                               | Sleeve          | Year 1            |                 | 
 | Team Laptop 8 and charger | No known issues                               | Sleeve          | Year 1            |                 | 
 | Team Laptop 9 and charger | No known issues                               | Sleeve          | Year 1            |                 | 
