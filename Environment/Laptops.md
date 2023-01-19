@@ -20,7 +20,7 @@
 | Team laptop 16 and charger       |  Dell Precision 7710 windows 10 pro I7-6820HQ | Bag      | Open              |                 |
 | Team laptop 17 and charger       |  Dell Precision 7710 windows 10 pro I7-6820HQ | Bag      | checked out       | Eliot           |
 | Team laptop 18 and charger       |  Dell Precision 7720 windows 10 pro I7-7820HQ | Bag      | checked out       | Ben             |
-| Dell Precision 5530       |  windows 10 home xeon no charger/bad battery) |                 | Open              |                 |
+| Dell Precision 5530       |  windows 10 home xeon no charger/bad battery) |                 | Need to Fix       |                 |
 | Driver's Station 1        | Good   Need to check out - dropped            | Sleeve          |                   |                 |
 | Driver's Station 2        | Good                                          | Sleeve          |                   |                 |
 | Personal | N/A | Nick F |
