@@ -6,7 +6,7 @@
 | Team Laptop 2 and charger | Donated Laptop                               | Sleeve          | Open              |                 | 
 | Team Laptop 3 and charger | New Laptop i7                              | Sleeve          | Open              |                 |
 | Team Laptop 4 and charger | New Laptop i7                        | Sleeve          | Open              |                 | 
-| Team Laptop 5 no charger? | Donated laptop i5                               | Sleeve          | Open              |                 |
+| Team Laptop 5  | Donated laptop i5                               | Sleeve          | Open              |                 |
 | Team Laptop 6 and charger | No known issues                               | Sleeve          | Hydra              |                 | 
 | Team Laptop 7 and charger | No known issues                               | Sleeve          | Hydra              |                 | 
 | Team Laptop 8 and charger | No known issues                               | Sleeve          | Open              |                 | 
