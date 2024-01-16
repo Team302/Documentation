@@ -11,7 +11,7 @@
 | Team Laptop 7 and charger | No known issues                               | Sleeve          | Hydra              |                 | 
 | Team Laptop 8 and charger | No known issues                               | Sleeve          | Open              |                 | 
 | Team Laptop 9 and charger | No known issues                               | Sleeve          | Open              |                 | 
-| Team Laptop 10 and charger| bad - overheats                  | Sleeve          | checked out       |         | 
+| Team Laptop 10 and charger| recycle                  | Sleeve          | recycle       |         | 
 | Team Laptop 11 and charger| Old Driver's Station         | Sleeve          | checked out       | James           | 
 | Team Laptop 12 and charger| Old Driver's Station  | Sleeve          | Open              |                 | 
 | Team laptop 13 and charger| Networks was giving problems                  | Sleeve          | Open              |                 | 
