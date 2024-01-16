@@ -26,5 +26,7 @@
 | Personal | N/A | Nick F |
 | Personal | N/A | Mr. Witcpalek |
 | Personal | N/A | Mr. Hoover | 
-| Personal | N/A | Mr. Sinnot | 
-| Personal | N/A | Tanay | 
+| Personal | N/A | Dr. T | 
+| Personal | N/A | Mr. Muscat | 
+| Personal | N/A | Mr. Mauti | 
+| ????     | N/A | Mr. Smith | 
