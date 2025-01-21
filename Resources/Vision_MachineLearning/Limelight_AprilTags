@@ -1,0 +1,6 @@
+One vision solution that we use on the robot is called the limeleight. It as essentialy a modified
+raspberry pi that has a camera and outputs data over ethernet to the roborio through the NetworkTables protocol
+One thing we can use Limelights for is Apriltags, Apriltags are black-and-white checkered markers simaller to a qr code.
+By knowing the actual size of the tag and knowing how many pixles we can see of the tag, we can do some trigomonitry to detrmine
+our relative angle and distances to the tag. Based on this data we can get the feild relative postion of the robot
+by knowing where the specific tag is on the field.
